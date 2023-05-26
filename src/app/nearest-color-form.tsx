@@ -65,7 +65,7 @@ export const NearestColorForm = () => {
             </div>
 
             <div className="flex flex-col gap-y-2">
-              <p className="text-gray-700">Tailwind colour name:</p>
+              <p className="text-gray-700">Tailwind color name:</p>
 
               <button
                 className="border border-gray-300 p-2 rounded"
@@ -100,7 +100,7 @@ export const NearestColorForm = () => {
 
               <div>
                 <p className="text-gray-700 mt-0">
-                  Your colour <span className="italic">{color}</span>
+                  Your color <span className="italic">{color}</span>
                 </p>
 
                 <div className="w-48 h-20">
